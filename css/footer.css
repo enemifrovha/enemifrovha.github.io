@@ -1,0 +1,26 @@
+:root{
+    --cor-footer-e-botoes: #00fd94;
+    --cor-fundo: #376f6c;
+    --cor-fontes: #198754;
+    font-family: 'open-sans', sans-serif;
+}
+
+
+.footer{
+    background-color: var(--cor-footer-e-botoes);
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 50px 50px 0 0;
+    padding: 50px;
+}
+
+.botao-footer{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 40px;
+    font-size: 16px;
+}
