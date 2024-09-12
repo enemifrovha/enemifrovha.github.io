@@ -1,3 +1,13 @@
-#logo-ifro-header{
-    width: 300px;
+#logo-ifro-header, #logo-simulado-header{
+    width: 50%;
+}
+
+#logo-simulado-header{
+    top: 0;
+}
+
+.header-img{
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
 }
