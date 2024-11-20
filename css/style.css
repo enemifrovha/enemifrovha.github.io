@@ -107,28 +107,6 @@ body{
 
 @media screen and (max-width: 800px){
     .conteudo-centro{
-        border-radius: 0;
-        width: 100%;
-        padding: 0;
+        width: 90%;
     }
-    .conteudo-centro > h2{
-        font-size: 1.4em;
-        margin: 10px;
-    }
-    .ancoras-main{
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        flex-grow: 1;
-        width: 100%;
-    }
-    .ancoras-botoes {
-        width: 100vw;
-    }
-    .botoes {
-        width: 100%;
-        border-radius: 0;
-        height: 60px;
-        font-size: 1.2em;
-    }
-}
+}z
