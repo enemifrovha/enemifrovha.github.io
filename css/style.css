@@ -119,6 +119,7 @@ body{
         justify-content: space-around;
         flex-grow: 1;
         width: 100%;
+        gap: 10px;
     }
     .ancoras-botoes {
         width: 100vw;
